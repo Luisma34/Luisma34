@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey there, Soy Luis Manuel 👋
 
 
 <p>Bienvenido a mi perfil de GitHub.</p>
 
 <p>
-Soy Luis Manuel, estudiante de Desarrollo de Aplicaciones Web, formándome como desarrollador full-stack.  
+Estudiante de Desarrollo de Aplicaciones Web, formándome como desarrollador full-stack.  
 Soy de <img width="20" height="20" alt="Málaga" src="https://github.com/user-attachments/assets/d819b1e2-5aa9-4620-931e-88c316caf0f4" /> Málaga, España, y actualmente vivo en Las Palmas 
 <img width="20" height="20" alt="Las Palmas" src="https://github.com/user-attachments/assets/0ecc98e6-d858-4975-b477-1dcc624504a0" />.
 Aquí puedes conocer más sobre mi perfil profesional y mi evolución como desarrollador en mi LinkedIn.  
