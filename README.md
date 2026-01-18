@@ -1,4 +1,4 @@
-## Hey there, Soy Luis Manuel 👋
+## Buenas, Soy Luis Manuel 👋
 
 
 <p>Bienvenido a mi perfil de GitHub.</p>
