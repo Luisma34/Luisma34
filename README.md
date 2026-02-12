@@ -21,7 +21,7 @@ Aquí puedes conocer más sobre mi perfil profesional y mi evolución como desar
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-%23663399?logo=css/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-%23663399?logo=css"/>
 </p>
 
 
