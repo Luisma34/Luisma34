@@ -5,7 +5,8 @@
 
 <p>
 Desarrollador Full-Satck en formación, con experiencia en frontend y backend.
-En este perfil comparto mi evolución como desarrollador, aplicando buenas prácticas, aquitectura y control de versiones.
+
+  En este perfil comparto mi evolución como desarrollador, aplicando buenas prácticas, aquitectura y control de versiones.
 
 🌍 Las Palmas de Gran Canaria, España.
 
