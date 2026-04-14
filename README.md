@@ -4,10 +4,12 @@
 <p>Bienvenido a mi perfil de GitHub.</p>
 
 <p>
-Estudiante de Desarrollo de Aplicaciones Web, formándome como desarrollador full-stack.  
-Soy de <img width="20" height="20" alt="Málaga" src="https://github.com/user-attachments/assets/d819b1e2-5aa9-4620-931e-88c316caf0f4" /> Málaga, España, y actualmente vivo en Las Palmas 
-<img width="20" height="20" alt="Las Palmas" src="https://github.com/user-attachments/assets/0ecc98e6-d858-4975-b477-1dcc624504a0" />.
-Aquí puedes conocer más sobre mi perfil profesional y mi evolución como desarrollador en mi LinkedIn.  
+Desarrollador Full-Satck en formación, con experiencia en frontend y backend.
+En este perfil comparto mi evolución como desarrollador, aplicando buenas prácticas, aquitectura y control de versiones.
+
+🌍 Las Palmas de Gran Canaria, España.
+
+Más información sobre mi perfil profesional en LinkedIn.  
   <p>
   <a href="https://www.linkedin.com/in/luis-manuel-cord%C3%B3n-%C3%A1lvarez-357620356/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20></a>
   </p>
