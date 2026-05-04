@@ -27,6 +27,8 @@ Más información sobre mi perfil profesional en LinkedIn.
 <img alt="CSS" src="https://img.shields.io/badge/CSS-%23663399?logo=css"/>
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea"/>
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-525C86?logo=eclipseide"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 
