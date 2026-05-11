@@ -4,7 +4,7 @@
 <p>Bienvenido a mi perfil de GitHub.</p>
 
 <p>
-Desarrollador Full-Satck en formación, con experiencia en frontend y backend.
+Desarrollador Full-Satck (Junior), con experiencia en frontend y backend.
 
   En este perfil comparto mi evolución como desarrollador, aplicando buenas prácticas, aquitectura y control de versiones.
 
